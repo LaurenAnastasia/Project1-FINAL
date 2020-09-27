@@ -1,3 +1,3 @@
-# Project 1 working edit
+# Project 1 
 
 https://laurenanastasia.github.io/Project1WorkingEdit/
